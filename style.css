@@ -1,0 +1,22 @@
+body {
+   
+    background-image:    url(mountain.jpg);
+    background-size:     cover;                      
+    background-repeat:   no-repeat;
+    /* background-position: center center;   */
+    width: 1000px;
+    height: 1000px;
+    }
+    p { padding: 700px 70px;
+        font-size: 24px;
+        color: white;
+    }
+div{
+    height: 950px;
+    width: 1820px;
+    background-size: cover;
+    background: linear-gradient(#6b6b6b33, #000000);
+    
+}
+
+
